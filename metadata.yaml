@@ -1,0 +1,28 @@
+_repo: The-Goop-Directory-of-Juvenile-Offenders-Famous-for-their-Misdeeds-and-Serving-as-a-Salutary-__13035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Manners and customs -- Juvenile literature'
+- GITenberg
+title: The Goop Directory of Juvenile Offenders Famous for their Misdeeds and Serving
+  as a Salutary Example for all Virtuous Children
+url: http://www.gutenberg.org/ebooks/13035
